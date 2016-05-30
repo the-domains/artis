@@ -1,0 +1,14 @@
+layout_spectrum: 0.5638098786585033
+typography_spectrum: 0.4305846297647804
+color:
+  brandStrength: 0.3774690981954336
+  lightness: 0.6621323255822062
+  saturation: 0.21098539768718183
+  rhythmicContrast: 0.21064482512883842
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: Artis
