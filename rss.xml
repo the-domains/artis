@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Artis]]></title>
+        <description><![CDATA[Artis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 May 2016 14:53:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Insalata di Arance]]></title>
+            <description><![CDATA[<article><h1>Insalata di Arance</h1><p>The Sicilian orange salad (Insalata di arance) is a typical salad dish of the Spanish and Sicilian cuisine, which usesoranges as its main ingredient. It is usually served at the beginning or at the end of a meal.[1]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a1bc994fa42598f35688ab396ca74924a82c69f.jpg"></article>]]></description>
+            <link>http://www.mimmorapisarda.it/VTE/1009638_632316013447956_1506406360_o.jpg</link>
+            <guid isPermaLink="false">f3794622-e0a5-44df-b75e-3d627f99ac70</guid>
+            <pubDate>Mon, 30 May 2016 14:53:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
